@@ -5,7 +5,6 @@ A curated list of resources for getting started with building on Ethereum.
 *Please check the contribution guidelines for information on formatting and writing pull requests.*
 
 ### Contents
-
 - [Introduction to Ethereum](#Introduction-to-Ethereum)
 - [Get Started Building on Ethereum](#Get-Started-Building-on-Ethereum)
 - [Toolkits](#Toolkits)
@@ -15,6 +14,8 @@ A curated list of resources for getting started with building on Ethereum.
 - [Interactive Tutorials](#Interactive-Tutorials)
 - [Smart Contract Security](#Smart-Contract-Security)
 - [Developer Communities](#Developer-Communities)
+
+---
 
 ### Introduction to Ethereum
 - [ethereum.org](https://ethereum.org/en/) - A resource for the Ethereum community
@@ -50,12 +51,12 @@ A curated list of resources for getting started with building on Ethereum.
 
 ### Interactive Tutorials
 - [Speed Run Ethereum](https://speedrunethereum.com/) - Learn how to build on Ethereum; the superpowers and the gotchas
-- [Node Guardians](https://nodeguardians.io/) - Learn about blockchain and programming as you navigate through a medival game
+- [Node Guardians](https://nodeguardians.io/) - Learn about blockchain and programming as you navigate through a medieval game
 - [cryptozombies](https://cryptozombies.io/en/course) - Solidity beginner to intermediate hands-on tutorials
 
 ### Smart Contract Security
 - [Security Audits](https://blog.openzeppelin.com/security-audits/) by OpenZepplin
-- [The Ethernaut Game](https://ethernaut.openzeppelin.com/) - Web3/Solidity based game where each level is a smart contract that needs to be 'hacked'.
+- [The Ethernaut Game](https://ethernaut.openzeppelin.com/) - Web3/Solidity-based game where each level is a smart contract that needs to be 'hacked'.
 - [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) - A set of challenges to learn about smart contract security by [tincho](https://twitter.com/tinchoabbate)
 - [How to Audit a Smart Contract Video](https://www.youtube.com/watch?v=TmZ8gH-toX0&t=490s&ab_channel=PatrickCollins) by [Patrick Collins](https://twitter.com/PatrickAlphaC)
 
