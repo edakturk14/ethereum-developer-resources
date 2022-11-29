@@ -61,6 +61,7 @@ A curated list of resources for getting started with building on Ethereum.
 - [Buildspace](https://buildspace.so/) - Learn and ship products in weekend projects
 - [30 days of Web3](https://www.30daysofweb3.xyz/) - Guide to building Fullstack Dapps
 - [Road to Web3](https://www.web3.university/tracks/road-to-web3) - 10-week, self-paced program to bring you from beginner to advanced as a Web3 Blockchain Developer
+- [dApp University](https://www.dappuniversity.com/) - Online blockchain developer bootcamp
 
 ### Tutorials
 - [Speed Run Ethereum](https://speedrunethereum.com/) - Learn how to build on Ethereum; the superpowers and the gotchas
@@ -69,10 +70,11 @@ A curated list of resources for getting started with building on Ethereum.
 
 ### Smart Contract Security
 - [Security Audits](https://blog.openzeppelin.com/security-audits/) by OpenZepplin
+- [Consensys best practices](https://consensys.github.io/smart-contract-best-practices/) - Provides a baseline knowledge of security considerations for intermediate Solidity programmers
+- [How to Audit a Smart Contract Video](https://www.youtube.com/watch?v=TmZ8gH-toX0&t=490s&ab_channel=PatrickCollins) by [Patrick Collins](https://twitter.com/PatrickAlphaC)
 - [The Ethernaut Game](https://ethernaut.openzeppelin.com/) - Web3/Solidity-based game where each level is a smart contract that needs to be 'hacked'.
 - [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) - A set of challenges to learn about smart contract security by [tincho](https://twitter.com/tinchoabbate)
-- [How to Audit a Smart Contract Video](https://www.youtube.com/watch?v=TmZ8gH-toX0&t=490s&ab_channel=PatrickCollins) by [Patrick Collins](https://twitter.com/PatrickAlphaC)
-- [Consensys best practices](https://consensys.github.io/smart-contract-best-practices/) - Provides a baseline knowledge of security considerations for intermediate Solidity programmers
+- [Capture the Ether](https://capturetheether.com/) - Game in which you hack Ethereum smart contracts to learn about security
 
 ### Developer Communities
 - [BuidlGuidl](https://buidlguidl.com/) - Curated group of Ethereum builders creating products, prototypes, and tutorials to enrich the web3 ecosystem
