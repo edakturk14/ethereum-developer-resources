@@ -33,8 +33,14 @@ A curated list of resources for getting started with building on Ethereum.
 - [ETH.build](https://eth.build/) - Educational Sandbox For Web3
 
 ### Articles
+- [Zero To Hero: Web3 and Solidity Developer Roadmap](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/) by [Vitto](https://twitter.com/VittoStack)
 - [The Complete Guide to Full Stack Ethereum and EVM Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) by [Nader Dabit](https://twitter.com/dabit3)
-- [The Complete Guide to Full Stack Web3 Development](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74) by [Nader Dabit](https://twitter.com/dabit3)
+- [Defining the web3 stack](https://edgeandnode.com/blog/defining-the-web3-stack/) by [Nader Dabit](https://twitter.com/dabit3)
+- [A Developer's Guide to the Web3 Stack](https://www.web3.university/article/web3-stack) by [Isaac Lau](https://twitter.com/crypt0zeke?s=20)
+- [How to get started in Web3](https://eda.hashnode.dev/how-to-get-started-in-web3) by [Eda](https://twitter.com/edatweets_)
+- [Build a Decentralized News Feed using Reactjs, TailwindCSS, Etherjs, IPFS & Solidity](https://blog.idrisolubisi.com/build-a-decentralized-news-feed-using-reactjs-tailwindcss-etherjs-ipfs-and-solidity) by [Idris](https://twitter.com/olanetsoft)
+- [Building a Full Stack Web3 YouTube Clone with Next, IPFS, The Graph, Solidity, and Livepeer](https://blog.suhailkakar.com/building-a-full-stack-web3-youtube-clone-with-next-ipfs-the-graph-solidity-and-livepeer) by [Suhail Kakar](https://twitter.com/suhailkakar)
+- [The Complete Guide to Getting Started With The Graph](https://camiinthisthang.hashnode.dev/the-complete-guide-to-getting-started-with-the-graph) by [Cami](https://twitter.com/camiinthisthang)
 
 ### Videos
 - [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ&ab_channel=freeCodeCamp.org) by [Patrick Collins](https://twitter.com/PatrickAlphaC)
@@ -46,6 +52,7 @@ A curated list of resources for getting started with building on Ethereum.
 ### Starter Toolkits
 - [Scaffold-ETH](https://github.com/scaffold-eth/scaffold-eth) - Forkable Ethereum dev stack focused on fast product iterations smart contracts
 - [create-eth-app](https://github.com/paulrberg/create-eth-app) - Create Ethereum-powered apps with one command
+- [useDApp](https://github.com/TrueFiEng/useDApp) - Framework for rapid Dapp development
 
 ### Free Web3 Courses
 - [Alchemy University](https://university.alchemy.com/) - Program to fast track your web3 career through courses, projects and code
