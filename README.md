@@ -31,6 +31,7 @@ A curated list of resources for getting started with building on Ethereum.
 - [devpill.me](https://www.devpill.me/) - Public good blockchain development guide
 - [Web3 University](https://www.web3.university/) - Online educational platform bringing you the best resources and tutorials across the blockchain development ecosystem
 - [ETH.build](https://eth.build/) - Educational Sandbox For Web3
+- [Nader’s web3 Resources for Developers](https://naderdabit.notion.site/Nader-s-web3-Resources-for-Developers-a200ed2ef21c4d578dc158df2b882c63) - A curated list of free, high quality, on-demand resources for learning & building web3 & blockchain applications
 
 ### Articles
 - [Zero To Hero: Web3 and Solidity Developer Roadmap](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/) by [Vitto](https://twitter.com/VittoStack)
