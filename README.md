@@ -83,7 +83,9 @@ A curated list of resources for getting started with building on Ethereum - cont
 - [WomenBuildlWeb3](https://www.womenbuildweb3.com/) - Global collective of women and non-binary developers learning and building in web3
 
 ## Newsletters
-- [Week in Ethereum Newsletter](https://weekinethereumnews.com/)
+- [Week in Ethereum Newsletter](https://weekinethereumnews.com/) - Weekly updates from the Ethereum ecosystem
+- [Developer DAO Newsletter](https://developerdao.substack.com/) - Articles from Developer DAO directly inside your inbox
+- [BuidlGuidl Newsletter](https://buildguidl.substack.com/) - A newsletter about Ethereum builders creating products, prototypes, and tutorials!
 
 ## Decentrazlied Finance
 - [DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - Currated list of the best DeFi & Blockchain researches and tools
