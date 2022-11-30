@@ -1,6 +1,6 @@
 # Ethereum Developer Resources
 
-A curated list of resources for getting started with building on Ethereum.
+A curated list of resources for getting started with building on Ethereum - contributions are welcome.
 
 *Please check the [contribution guidelines](CONTRIBUTING.md) for information on formatting and writing pull requests.*
 
@@ -17,6 +17,7 @@ A curated list of resources for getting started with building on Ethereum.
 - [Newsletters](#Newsletters)
 - [Decentrazlied Finance](#Decentrazlied-Finance)
 - [NFTs](#NFTs)
+- [Podcasts](#Podcasts)
 
 ---
 

@@ -1,5 +1,7 @@
 # Contribution Guidelines
 
+Thank you for investing your time in contributing to Ethereum Developer Resources!
+
 Please ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a
