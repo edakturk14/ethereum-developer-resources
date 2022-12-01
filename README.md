@@ -15,9 +15,9 @@ A curated list of resources for getting started with building on Ethereum - cont
 - [Smart Contract Security](#Smart-Contract-Security)
 - [Developer Communities](#Developer-Communities)
 - [Newsletters](#Newsletters)
-- [Decentrazlied Finance](#Decentrazlied-Finance)
-- [NFTs](#NFTs)
 - [Podcasts](#Podcasts)
+- [Decentrazlied Finance](#Decentrazlied-Finance)
+- [Zero Knowledge Proofs](#Zero-Knowledge-Proofs)
 
 ---
 
@@ -87,14 +87,15 @@ A curated list of resources for getting started with building on Ethereum - cont
 - [Developer DAO Newsletter](https://developerdao.substack.com/) - Articles from Developer DAO directly inside your inbox
 - [BuidlGuidl Newsletter](https://buildguidl.substack.com/) - A newsletter about Ethereum builders creating products, prototypes, and tutorials
 
-## Decentrazlied Finance
-- [DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - Currated list of the best DeFi & Blockchain researches and tools
-
-## NFTs
-- [A beginner's guide to NFTs](https://linda.mirror.xyz/df649d61efb92c910464a4e74ae213c4cab150b9cbcc4b7fb6090fc77881a95d) by [Linda Xie
-](https://twitter.com/ljxie)
-
 ## Podcasts
 - [Delphi Media](https://www.youtube.com/@MediaDelphi)
 - [Bankless Shows](https://www.youtube.com/@Bankless)
 - [On The Brink with Castle Island](https://podcasts.apple.com/us/podcast/on-the-brink-with-castle-island/id1480586463)
+
+## Decentrazlied Finance
+- [DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - Currated list of the best DeFi & Blockchain researches and tools
+
+## Zero Knowledge Proofs
+- [Awesome zero knowledge proofs (zkp)](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - Curated list of awesome things related to learning zero knowledge proofs
+- [Awesome StarkNet](https://github.com/gakonst/awesome-starknet) - Curated list of awesome StarkNet resources, libraries, tools and more
+- [Getting Started w/StarkNet & writing smart contracts Cairo](https://eda.hashnode.dev/developers-guide-to-starknet-and-cairo)
