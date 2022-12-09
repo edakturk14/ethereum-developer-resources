@@ -23,7 +23,6 @@ A curated list of resources for getting started with building on Ethereum - cont
 
 ## Introduction to Ethereum
 - [ethereum.org](https://ethereum.org/en/) - A resource for the Ethereum community
-- [ETH Hub](https://docs.ethhub.io/) - Source for essential Ethereum information
 - [useweb3](https://www.useweb3.xyz/) - Platform for developers to explore and learn about Web3
 
 ## Get Started Building on Ethereum
