@@ -67,6 +67,7 @@ A curated list of resources for getting started with building on Ethereum - cont
 - [Speed Run Ethereum](https://speedrunethereum.com/) - Learn how to build on Ethereum; the superpowers and the gotchas
 - [Node Guardians](https://nodeguardians.io/) - Learn about blockchain and programming as you navigate through a medieval game
 - [cryptozombies](https://cryptozombies.io/en/course) - Solidity beginner to intermediate hands-on tutorials
+- [Solidity by example](https://solidity-by-example.org) - an introduction to Solidity with simple examples
 
 ## Smart Contract Security
 - [Security Audits](https://blog.openzeppelin.com/security-audits/) by OpenZepplin
