@@ -81,6 +81,7 @@ A curated list of resources for getting started with building on Ethereum - cont
 - [BuidlGuidl](https://buidlguidl.com/) - Curated group of Ethereum builders creating products, prototypes, and tutorials to enrich the web3 ecosystem
 - [DeveloperDAO](https://www.developerdao.com/) - Community of thousands of web3 builders creating a better internet
 - [WomenBuildlWeb3](https://www.womenbuildweb3.com/) - Global collective of women and non-binary developers learning and building in web3
+- [WebtrES](https://www.webtres.club/) - Global Spanish-speaking community learning and building in web3
 
 ## Newsletters
 - [Week in Ethereum Newsletter](https://weekinethereumnews.com/) - Weekly updates from the Ethereum ecosystem
