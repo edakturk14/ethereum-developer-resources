@@ -77,6 +77,7 @@ A curated list of resources for getting started with building on Ethereum - cont
 - [The Ethernaut Game](https://ethernaut.openzeppelin.com/) - Web3/Solidity-based game where each level is a smart contract that needs to be 'hacked'.
 - [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) - A set of challenges to learn about smart contract security by [tincho](https://twitter.com/tinchoabbate)
 - [Capture the Ether](https://capturetheether.com/) - Game in which you hack Ethereum smart contracts to learn about security
+- [DeFi Hack Labs](https://github.com/SunWeb3Sec/DeFiHackLabs) - Reproduce DeFi hack incidents using Foundry by [SunSec](https://twitter.com/1nf0s3cpt)
 
 ## Developer Communities
 - [BuidlGuidl](https://buidlguidl.com/) - Curated group of Ethereum builders creating products, prototypes, and tutorials to enrich the web3 ecosystem
