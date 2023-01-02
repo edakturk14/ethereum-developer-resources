@@ -63,6 +63,7 @@ A curated list of resources for getting started with building on Ethereum - cont
 - [30 days of Web3](https://www.30daysofweb3.xyz/) - Guide to building Fullstack Dapps
 - [Road to Web3](https://www.web3.university/tracks/road-to-web3) - 10-week, self-paced program to bring you from beginner to advanced as a Web3 Blockchain Developer
 - [dApp University](https://www.dappuniversity.com/) - Online blockchain developer bootcamp
+- [Growic Solidity Developer Program](https://growic.com/solidity/solidity-developer?ref=EDR) - A 10-week hands-on, instructor-led program that allows you to learn Solidity from the basics to creating your own project
 
 ## Tutorials
 - [Speed Run Ethereum](https://speedrunethereum.com/) - Learn how to build on Ethereum; the superpowers and the gotchas
