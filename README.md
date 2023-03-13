@@ -55,6 +55,7 @@ A curated list of resources for getting started with building on Ethereum - cont
 - [Scaffold-ETH](https://github.com/scaffold-eth/scaffold-eth) - Forkable Ethereum dev stack focused on fast product iterations smart contracts
 - [create-eth-app](https://github.com/paulrberg/create-eth-app) - Create Ethereum-powered apps with one command
 - [useDApp](https://github.com/TrueFiEng/useDApp) - Framework for rapid Dapp development
+- [Create web3 Dapp](https://createweb3dapp.alchemy.com/) - Bootstrap a full stack dapp in 4 minutes by Alchemy
 
 ## Free Web3 Courses
 - [Alchemy University](https://university.alchemy.com/) - Program to fast track your web3 career through courses, projects and code
