@@ -104,3 +104,7 @@ A curated list of resources for getting started with building on Ethereum - cont
 - [Awesome zero knowledge proofs (zkp)](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - Curated list of awesome things related to learning zero knowledge proofs
 - [Awesome StarkNet](https://github.com/gakonst/awesome-starknet) - Curated list of awesome StarkNet resources, libraries, tools and more
 - [Getting Started w/StarkNet & writing smart contracts Cairo](https://eda.hashnode.dev/developers-guide-to-starknet-and-cairo)
+
+## MEV
+- [MEV Resources](https://docs.flashbots.net/new-to-mev)
+- [Flashbots: Finding & Capturing MEV 101 Video](https://www.youtube.com/watch?v=70WtsHtFd8Y&ab_channel=ETHGlobal) - Join Robert Miller and thegostep of Flashbots for a workshop
