@@ -24,6 +24,7 @@ A curated list of resources for getting started with building on Ethereum - cont
 ## Introduction to Ethereum
 - [ethereum.org](https://ethereum.org/en/) - A resource for the Ethereum community
 - [useweb3](https://www.useweb3.xyz/) - Platform for developers to explore and learn about Web3
+- [The Hitchhiker's Guide to Ethereum](https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum)
 
 ## Get Started Building on Ethereum
 - [ethereum.org Learning Tools](https://ethereum.org/en/developers/learning-tools/)
@@ -52,7 +53,8 @@ A curated list of resources for getting started with building on Ethereum - cont
 - [ETH Global Youtube](https://www.youtube.com/channel/UCfF9ZO8Ug4xk_AJd4aeT5HA) - Tutorials, talks, hackathon projects
 
 ## Starter Toolkits
-- [Scaffold-ETH](https://github.com/scaffold-eth/scaffold-eth) - Forkable Ethereum dev stack focused on fast product iterations smart contracts
+- [Scaffold-ETH v2](https://github.com/scaffold-eth/scaffold-eth-2) - Forkable Ethereum dev stack: NextJS, Hardhat, wagmi, rainbowkit, daisyUI
+- [Scaffold-ETH](https://github.com/scaffold-eth/scaffold-eth) - Forkable Ethereum dev stack: React, Hardhat
 - [create-eth-app](https://github.com/paulrberg/create-eth-app) - Create Ethereum-powered apps with one command
 - [useDApp](https://github.com/TrueFiEng/useDApp) - Framework for rapid Dapp development
 - [Create web3 Dapp](https://createweb3dapp.alchemy.com/) - Bootstrap a full stack dapp in 4 minutes by Alchemy
@@ -93,6 +95,9 @@ A curated list of resources for getting started with building on Ethereum - cont
 - [BuidlGuidl Newsletter](https://buildguidl.substack.com/) - A newsletter about Ethereum builders creating products, prototypes, and tutorials
 
 ## Podcasts
+- [Bell Curve](https://open.spotify.com/show/3uMWirMj2hc7IQYEUeBTyT?si=ff405670c783494b)
+- [Empire](https://open.spotify.com/show/4UTePv1CR3APdKOiosR3Iq?si=7ac05474765c4a2d)
+- [0xResearch](https://open.spotify.com/show/0rGocvZ7oZR6vuy0UHKAON?si=195d289c64e6402b)
 - [Delphi Media](https://www.youtube.com/@MediaDelphi)
 - [Bankless Shows](https://www.youtube.com/@Bankless)
 - [On The Brink with Castle Island](https://podcasts.apple.com/us/podcast/on-the-brink-with-castle-island/id1480586463)
@@ -106,5 +111,7 @@ A curated list of resources for getting started with building on Ethereum - cont
 - [Getting Started w/StarkNet & writing smart contracts Cairo](https://eda.hashnode.dev/developers-guide-to-starknet-and-cairo)
 
 ## MEV
-- [MEV Resources](https://docs.flashbots.net/new-to-mev)
+- [MEV Resources from Flashbots](https://docs.flashbots.net/new-to-mev)
 - [Flashbots: Finding & Capturing MEV 101 Video](https://www.youtube.com/watch?v=70WtsHtFd8Y&ab_channel=ETHGlobal) - Join Robert Miller and thegostep of Flashbots for a workshop
+- [Encrypted Mempools: MEV & Censorship](https://joncharbonneau.substack.com/p/encrypted-mempools)
+- [Awesome MEV from Eda](https://github.com/edakturk14/awesome-mev)
