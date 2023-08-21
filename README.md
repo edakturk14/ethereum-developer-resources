@@ -6,9 +6,9 @@ A curated list of resources for getting started with building on Ethereum - cont
 
 ## Contents
 - [Introduction to Ethereum](#Introduction-to-Ethereum)
+- [Videos](#Videos)
 - [Get Started Building on Ethereum](#Get-Started-Building-on-Ethereum)
 - [Articles](#Articles)
-- [Videos](#Videos)
 - [Toolkits](#Toolkits)
 - [Free Courses](#Free-Courses)
 - [Interactive Tutorials](#Interactive-Tutorials)
@@ -18,6 +18,8 @@ A curated list of resources for getting started with building on Ethereum - cont
 - [Podcasts](#Podcasts)
 - [Decentrazlied Finance](#Decentrazlied-Finance)
 - [Zero Knowledge Proofs](#Zero-Knowledge-Proofs)
+- [MEV](#MEV)
+- [Events](#Events)
 
 ---
 
@@ -25,6 +27,14 @@ A curated list of resources for getting started with building on Ethereum - cont
 - [ethereum.org](https://ethereum.org/en/) - A resource for the Ethereum community
 - [useweb3](https://www.useweb3.xyz/) - Platform for developers to explore and learn about Web3
 - [The Hitchhiker's Guide to Ethereum](https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum)
+
+## Videos
+- [Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course | Foundry Edition 2023](https://github.com/Cyfrin/foundry-full-course-f23) by [Patrick Collins](https://twitter.com/PatrickAlphaC)
+- [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ&ab_channel=freeCodeCamp.org) by [Patrick Collins](https://twitter.com/PatrickAlphaC)
+- [Nader Dabit's YouTube Channel](https://www.youtube.com/c/naderdabit) - Full-stack web3 development tutorials
+- [Web2 to Web3 - learn how to build on Ethereum](https://www.youtube.com/playlist?list=PLJz1HruEnenAf80uOfDwBPqaliJkjKg69)
+- [Build your first Web3 application | Full Tutorial](https://www.youtube.com/watch?v=0X30BftznSE&ab_channel=EatTheBlocks) by [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks)
+- [ETH Global Youtube](https://www.youtube.com/channel/UCfF9ZO8Ug4xk_AJd4aeT5HA) - Tutorials, talks, hackathon projects
 
 ## Get Started Building on Ethereum
 - [ethereum.org Learning Tools](https://ethereum.org/en/developers/learning-tools/)
@@ -44,13 +54,6 @@ A curated list of resources for getting started with building on Ethereum - cont
 - [Build a Decentralized News Feed using Reactjs, TailwindCSS, Etherjs, IPFS & Solidity](https://blog.idrisolubisi.com/build-a-decentralized-news-feed-using-reactjs-tailwindcss-etherjs-ipfs-and-solidity) by [Idris](https://twitter.com/olanetsoft)
 - [Building a Full Stack Web3 YouTube Clone with Next, IPFS, The Graph, Solidity, and Livepeer](https://blog.suhailkakar.com/building-a-full-stack-web3-youtube-clone-with-next-ipfs-the-graph-solidity-and-livepeer) by [Suhail Kakar](https://twitter.com/suhailkakar)
 - [The Complete Guide to Getting Started With The Graph](https://camiinthisthang.hashnode.dev/the-complete-guide-to-getting-started-with-the-graph) by [Cami](https://twitter.com/camiinthisthang)
-
-## Videos
-- [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ&ab_channel=freeCodeCamp.org) by [Patrick Collins](https://twitter.com/PatrickAlphaC)
-- [Nader Dabit's YouTube Channel](https://www.youtube.com/c/naderdabit) - Full-stack web3 development tutorials
-- [Web2 to Web3 - learn how to build on Ethereum](https://www.youtube.com/playlist?list=PLJz1HruEnenAf80uOfDwBPqaliJkjKg69)
-- [Build your first Web3 application | Full Tutorial](https://www.youtube.com/watch?v=0X30BftznSE&ab_channel=EatTheBlocks) by [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks)
-- [ETH Global Youtube](https://www.youtube.com/channel/UCfF9ZO8Ug4xk_AJd4aeT5HA) - Tutorials, talks, hackathon projects
 
 ## Starter Toolkits
 - [Scaffold-ETH v2](https://github.com/scaffold-eth/scaffold-eth-2) - Forkable Ethereum dev stack: NextJS, Hardhat, wagmi, rainbowkit, daisyUI
@@ -115,3 +118,6 @@ A curated list of resources for getting started with building on Ethereum - cont
 - [Flashbots: Finding & Capturing MEV 101 Video](https://www.youtube.com/watch?v=70WtsHtFd8Y&ab_channel=ETHGlobal) - Join Robert Miller and thegostep of Flashbots for a workshop
 - [Encrypted Mempools: MEV & Censorship](https://joncharbonneau.substack.com/p/encrypted-mempools)
 - [Awesome MEV from Eda](https://github.com/edakturk14/awesome-mev)
+
+## Events
+- [Upcoming Ethereum Community Events](https://ethereum.org/en/community/events/)
