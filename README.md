@@ -58,9 +58,10 @@ A curated list of resources for getting started with building on Ethereum - cont
 ## Starter Toolkits
 - [Scaffold-ETH v2](https://github.com/scaffold-eth/scaffold-eth-2) - Forkable Ethereum dev stack: NextJS, Hardhat, wagmi, rainbowkit, daisyUI
 - [Scaffold-ETH](https://github.com/scaffold-eth/scaffold-eth) - Forkable Ethereum dev stack: React, Hardhat
-- [create-eth-app](https://github.com/paulrberg/create-eth-app) - Create Ethereum-powered apps with one command
+- [Optimism Starter Kit](https://github.com/ethereum-optimism/optimism-starter) - Optimism + wagmi + Foundry + Rainbowkit + Vite project originally bootstrapped with create-wagmi
 - [useDApp](https://github.com/TrueFiEng/useDApp) - Framework for rapid Dapp development
 - [Create web3 Dapp](https://createweb3dapp.alchemy.com/) - Bootstrap a full stack dapp in 4 minutes by Alchemy
+- [create-eth-app](https://github.com/paulrberg/create-eth-app) - Create Ethereum-powered apps with one command
 
 ## Free Web3 Courses
 - [Alchemy University](https://university.alchemy.com/) - Program to fast track your web3 career through courses, projects and code
