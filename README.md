@@ -78,6 +78,7 @@ A curated list of resources for getting started with building on Ethereum - cont
 - [Solidity by example](https://solidity-by-example.org) - An introduction to Solidity with simple examples
 
 ## Smart Contract Security
+- [Cyfrin Audits Resources](https://www.cyfrin.io/resources)
 - [Security Audits](https://blog.openzeppelin.com/security-audits/) by OpenZepplin
 - [Consensys best practices](https://consensys.github.io/smart-contract-best-practices/) - Provides a baseline knowledge of security considerations for intermediate Solidity programmers
 - [How to Audit a Smart Contract Video](https://www.youtube.com/watch?v=TmZ8gH-toX0&t=490s&ab_channel=PatrickCollins) by [Patrick Collins](https://twitter.com/PatrickAlphaC)
@@ -88,6 +89,7 @@ A curated list of resources for getting started with building on Ethereum - cont
 
 ## Developer Communities
 - [BuidlGuidl](https://buidlguidl.com/) - Curated group of Ethereum builders creating products, prototypes, and tutorials to enrich the web3 ecosystem
+- [Alchemy University](https://twitter.com/AlchemyLearn) -  Ecosystem for learning how to build and interact with web3.
 - [DeveloperDAO](https://www.developerdao.com/) - Community of thousands of web3 builders creating a better internet
 - [WomenBuildlWeb3](https://www.womenbuildweb3.com/) - Global collective of women and non-binary developers learning and building in web3
 - [WebtrES](https://www.webtres.club/) - Global Spanish-speaking community learning and building in web3
@@ -117,6 +119,7 @@ A curated list of resources for getting started with building on Ethereum - cont
 - [MEV Resources from Flashbots](https://docs.flashbots.net/new-to-mev)
 - [Flashbots: Finding & Capturing MEV 101 Video](https://www.youtube.com/watch?v=70WtsHtFd8Y&ab_channel=ETHGlobal) - Join Robert Miller and thegostep of Flashbots for a workshop
 - [Encrypted Mempools: MEV & Censorship](https://joncharbonneau.substack.com/p/encrypted-mempools)
+- [Frontier Research](https://frontier.tech/) - Independent research and advisory group formed to bridge the gap between fundamental research and commercial products
 - [Awesome MEV from Eda](https://github.com/edakturk14/awesome-mev)
 
 ## Events
